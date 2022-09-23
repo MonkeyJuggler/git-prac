@@ -1,4 +1,6 @@
 Hi Kath, this is a test file. 
 
 Hi Peter. 
-How are you? 
+How are you?
+
+I'm fine Kath, how are you?
